@@ -1,3 +1,5 @@
+채널환경에 대한 코드 참고  
+
 # A CNN based end to end communication systems
 Updated: 07/02/2019.<br>
 This repository contains source code necessary to reproduce the results presented in the following paper: <br>
